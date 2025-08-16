@@ -1,0 +1,4 @@
+id,nombre,cantidad,precio
+X01,ItemBien,5,1.50
+X02,ItemMal,cantidad_no_numero,3.0
+,,10,
